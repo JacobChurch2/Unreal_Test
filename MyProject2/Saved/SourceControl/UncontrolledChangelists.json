@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/Grapes.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/Grapes_Anim.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/Grapes_PhysicsAsset.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/Grapes_Skeleton.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/Material_001.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Materials/Material_002.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Materials/Material_003.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Materials/Materia_Grape_Leaf.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Textures/CylinderColor1.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/Barrel.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/69/8LR6802W21Z07E0CEXYO8Q.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/CylinderColor1.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Textures/CylinderColor2.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Textures/CylinderColor3.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Textures/CylinderColor4.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Textures/CylinderColor5.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Textures/GrapeBaseColor.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2H/WG0APGYQ7KF7TRJ453LUTP.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Textures/GrapeStemUVLayout.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Textures/Leaf_Base_Color.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Materials/Material_001.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Materials/NewMaterial.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OG/Z6NS0490JEJVBEO2L297Z6.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/YJ/IDAM0W5AKN1XUT5Q5VU3MA.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/76/PTITF32KWC4K7CGHWY0MM1.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XC/SH6L0FM9BE2GLWP3R3RL9V.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/WaterMelon.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/WaterMelon_Anim.uasset",
+				"C:/Users/jchurch/Documents/Unreal Projects/MyProject2/Content/LevelPrototyping/Meshes/WaterMelon_PhysicsAsset.uasset"
+			]
+		}
+	]
+}
